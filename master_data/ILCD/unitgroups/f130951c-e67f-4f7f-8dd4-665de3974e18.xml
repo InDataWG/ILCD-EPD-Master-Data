@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<u:unitGroupDataSet xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+   <u:unitGroupInformation>
+      <u:dataSetInformation>
+         <common:UUID>f130951c-e67f-4f7f-8dd4-665de3974e18</common:UUID>
+         <common:name xml:lang="en">dimensionless</common:name>
+         <u:classificationInformation>
+            <common:classification>
+               <common:class level="0">Technical unit groups</common:class>
+            </common:classification>
+         </u:classificationInformation>
+         <common:generalComment xml:lang="en">use this as a unit group for dimensionless properties</common:generalComment>
+      </u:dataSetInformation>
+      <u:quantitativeReference>
+         <u:referenceToReferenceUnit>0</u:referenceToReferenceUnit>
+      </u:quantitativeReference>
+   </u:unitGroupInformation>
+   <u:administrativeInformation>
+      <u:dataEntryBy>
+         <common:timeStamp>2020-11-05T18:55:42.260+02:00</common:timeStamp>
+      </u:dataEntryBy>
+      <u:publicationAndOwnership>
+         <common:dataSetVersion>00.00.004</common:dataSetVersion>
+      </u:publicationAndOwnership>
+   </u:administrativeInformation>
+   <u:units>
+      <u:unit dataSetInternalID="0">
+         <u:name>dimensionless</u:name>
+         <u:meanValue>0</u:meanValue>
+      </u:unit>
+   </u:units>
+</u:unitGroupDataSet>

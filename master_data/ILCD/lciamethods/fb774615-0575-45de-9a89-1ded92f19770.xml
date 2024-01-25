@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCIAMethodDataSet xmlns="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://lca.jrc.it/ILCD/LCIAMethod ../../schemas/ILCD_LCIAMethodDataSet.xsd" version="1.1" locations="../ILCDLocations.xml"
+   LCIAMethodologies="../ILCDLCIAMethodologies.xml">
+   <LCIAMethodInformation>
+      <dataSetInformation>
+         <common:UUID>fb774615-0575-45de-9a89-1ded92f19770</common:UUID>
+         <common:name xml:lang="en">Global warming potential except emissions and uptake of biogenic carbon (GWP-IOBC/GHG)</common:name>
+         <common:generalComment xml:lang="en">The GWP-IOBC/GHG indicator includes all contribution to GWP except that emissions and uptake of biogenic carbon,
+            including temporary stored in products and packaging (as in Table 9 in EN 15804:2012+A2:2019), are set to zero (i.e. direct balanced out while
+            other biogenic substances like methane etc has a characterisation factor and therefore accounted for as greenhouse gases). This indicator is often
+            the default in LCA-software in the past and has in the EN 15804 standardisation process been known as "+/- 1 kg biogenic CO2 = 0 kg CO2e, or just
+            0/0". In published standards, it is described as type 2 in EN 16760.</common:generalComment>
+      </dataSetInformation>
+   </LCIAMethodInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2021-12-11T15:59:42.656+02:00</common:timeStamp>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dateOfLastRevision>2013-09-17T18:13:51.0Z</common:dateOfLastRevision>
+         <common:dataSetVersion>00.01.000</common:dataSetVersion>
+         <common:workflowAndPublicationStatus>Working draft</common:workflowAndPublicationStatus>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</LCIAMethodDataSet>
