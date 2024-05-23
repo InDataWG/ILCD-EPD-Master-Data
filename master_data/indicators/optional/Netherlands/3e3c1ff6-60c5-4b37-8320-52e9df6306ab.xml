@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<m:LCIAMethodDataSet xmlns:m="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" xmlns:s="http://lca.jrc.it/ILCD/Source" xmlns:c="http://lca.jrc.it/ILCD/Contact" xmlns:f="http://lca.jrc.it/ILCD/Flow" xmlns="http://lca.jrc.it/ILCD/Process" xmlns:fp="http://lca.jrc.it/ILCD/FlowProperty" xmlns:u="http://lca.jrc.it/ILCD/UnitGroup" version="1.1">
+    <m:LCIAMethodInformation>
+        <m:dataSetInformation>
+            <common:UUID>3e3c1ff6-60c5-4b37-8320-52e9df6306ab</common:UUID>
+            <common:name xml:lang="en">Human toxicity potential (HTP), The Netherlands</common:name>
+            <m:classificationInformation/>
+            <common:generalComment xml:lang="en">Indicator specific for The Netherlands</common:generalComment>
+        </m:dataSetInformation>
+    </m:LCIAMethodInformation>
+    <m:administrativeInformation>
+        <m:dataEntryBy>
+            <common:timeStamp>2021-02-03T08:54:58.867+01:00</common:timeStamp>
+        </m:dataEntryBy>
+        <m:publicationAndOwnership>
+            <common:dataSetVersion>00.00.001</common:dataSetVersion>
+        </m:publicationAndOwnership>
+    </m:administrativeInformation>
+</m:LCIAMethodDataSet>
