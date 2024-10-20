@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCIAMethodDataSet xmlns="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" version="1.1">
+   <LCIAMethodInformation>
+      <dataSetInformation>
+         <common:UUID>### uuid ###</common:UUID>
+         <common:name xml:lang="en">### name en ###</common:name>
+         <common:name xml:lang="de">### name de ###</common:name>
+         <methodology/>
+         <!-- one of the following -->
+         <impactCategory>Abiotic resource depletion</impactCategory>
+         <impactCategory>Acidification</impactCategory>
+         <impactCategory>Aquatic Eutrophication</impactCategory>
+         <impactCategory>Aquatic eco-toxicity</impactCategory>
+         <impactCategory>Biotic resource depletion</impactCategory>
+         <impactCategory>Cancer human health effects</impactCategory>
+         <impactCategory>Climate change</impactCategory>
+         <impactCategory>Ionizing radiation</impactCategory>
+         <impactCategory>Land use</impactCategory>
+         <impactCategory>Non-cancer human health effects</impactCategory>
+         <impactCategory>Ozone depletion</impactCategory>
+         <impactCategory>Photochemical ozone creation</impactCategory>
+         <impactCategory>Respiratory inorganics</impactCategory>
+         <impactCategory>Terrestrial Eutrophication</impactCategory>
+         <impactCategory>Terrestrial eco-toxicity</impactCategory>
+         <impactCategory>other</impactCategory>
+         <common:generalComment xml:lang="en">according to ### standard ###</common:generalComment>
+         <common:generalComment xml:lang="de">nach ### standard ###</common:generalComment>
+      </dataSetInformation>
+   </LCIAMethodInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2024-10-24T11:38:42.656+02:00</common:timeStamp>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dataSetVersion>00.01.000</common:dataSetVersion>
+         <common:workflowAndPublicationStatus>Working draft</common:workflowAndPublicationStatus>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</LCIAMethodDataSet>
