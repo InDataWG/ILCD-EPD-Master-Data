@@ -11,7 +11,7 @@
             </classificationInformation>
             <sourceCitation>Sphera AG; LBP-GaBi, University of Stuttgart: GaBi Software System, Leinfelden-Echterdingen / Germany</sourceCitation>
             <publicationType>Software or database</publicationType>
-           <sourceDescriptionOrComment xml:lang="en">This dataset represents the Sphera Managed Life Cycle Content (MLC), formerly known as GaBi Database, CUP 2023.02. https://sphera.com/life-cycle-assessment-lca-database/</sourceDescriptionOrComment>
+           <sourceDescriptionOrComment xml:lang="en">This dataset represents the Sphera Managed Life Cycle Content (MLC), formerly known as GaBi Database, version 2024. https://sphera.com/life-cycle-assessment-lca-database/</sourceDescriptionOrComment>
             <referenceToContact refObjectId="d7fa0337-f279-430d-becf-7f3111a85010" version="38.00.000" type="contact data set" uri="../contacts/d7fa0337-f279-430d-becf-7f3111a85010.xml">
                 <common:shortDescription xml:lang="en">Sphera</common:shortDescription>
             </referenceToContact>
@@ -25,7 +25,7 @@
             </common:referenceToDataSetFormat>
         </dataEntryBy>
         <publicationAndOwnership>
-            <common:dataSetVersion>00.01.000</common:dataSetVersion>
+            <common:dataSetVersion>00.02.000</common:dataSetVersion>
         </publicationAndOwnership>
     </administrativeInformation>
 </sourceDataSet>
