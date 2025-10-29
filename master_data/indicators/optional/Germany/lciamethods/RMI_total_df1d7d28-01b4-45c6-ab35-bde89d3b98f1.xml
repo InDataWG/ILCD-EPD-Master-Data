@@ -4,7 +4,7 @@
       <dataSetInformation>
          <common:UUID>df1d7d28-01b4-45c6-ab35-bde89d3b98f1</common:UUID>
          <common:name xml:lang="en">RMI total</common:name>
-         <common:name xml:lang="de">RMI Gesamt</common:name>
+         <common:name xml:lang="de">RMI gesamt</common:name>
          <methodology/>
          <!-- one of the following -->
          <impactCategory>other</impactCategory>

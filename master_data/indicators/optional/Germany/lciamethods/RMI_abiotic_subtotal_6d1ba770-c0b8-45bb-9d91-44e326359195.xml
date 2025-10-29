@@ -2,9 +2,9 @@
 <LCIAMethodDataSet xmlns="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" version="1.1">
    <LCIAMethodInformation>
       <dataSetInformation>
-         <common:UUID>fa8d8e01-cf72-4f7a-b772-71627eb0c481</common:UUID>
-         <common:name xml:lang="en">TMR total</common:name>
-         <common:name xml:lang="de">TMR gesamt</common:name>
+         <common:UUID>6d1ba770-c0b8-45bb-9d91-44e326359195</common:UUID>
+         <common:name xml:lang="en">RMI abiotic subtotal</common:name>
+         <common:name xml:lang="de">RMI abiotisch gesamt</common:name>
          <methodology/>
          <!-- one of the following -->
          <impactCategory>other</impactCategory>
@@ -14,7 +14,7 @@
    </LCIAMethodInformation>
    <administrativeInformation>
       <dataEntryBy>
-         <common:timeStamp>2025-10-14T09:55:42.656+02:00</common:timeStamp>
+         <common:timeStamp>2025-10-18T10:14:42.656+02:00</common:timeStamp>
       </dataEntryBy>
       <publicationAndOwnership>
          <common:dataSetVersion>00.01.000</common:dataSetVersion>
