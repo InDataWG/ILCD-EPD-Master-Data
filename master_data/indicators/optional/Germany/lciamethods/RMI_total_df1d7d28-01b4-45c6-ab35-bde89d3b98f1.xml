@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LCIAMethodDataSet xmlns="http://lca.jrc.it/ILCD/LCIAMethod" xmlns:common="http://lca.jrc.it/ILCD/Common" version="1.1">
+   <LCIAMethodInformation>
+      <dataSetInformation>
+         <common:UUID>df1d7d28-01b4-45c6-ab35-bde89d3b98f1</common:UUID>
+         <common:name xml:lang="en">RMI total</common:name>
+         <common:name xml:lang="de">RMI gesamt</common:name>
+         <methodology/>
+         <!-- one of the following -->
+         <impactCategory>other</impactCategory>
+         <common:generalComment xml:lang="en">part of Product Material Footprint (PMF) methods - http://dx.doi.org/doi:10.17170/kobra-20190521521</common:generalComment>
+         <common:generalComment xml:lang="de">part of Product Material Footprint (PMF) methods - http://dx.doi.org/doi:10.17170/kobra-20190521521</common:generalComment>
+      </dataSetInformation>
+   </LCIAMethodInformation>
+   <administrativeInformation>
+      <dataEntryBy>
+         <common:timeStamp>2025-10-14T09:56:42.656+02:00</common:timeStamp>
+      </dataEntryBy>
+      <publicationAndOwnership>
+         <common:dataSetVersion>00.01.000</common:dataSetVersion>
+      </publicationAndOwnership>
+   </administrativeInformation>
+</LCIAMethodDataSet>
